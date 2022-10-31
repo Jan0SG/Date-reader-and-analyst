@@ -19,3 +19,5 @@ A date reader which can analyze different data if asked. The range for the dates
 -Provides the day before or after the object's current date.
 
 -Prints out if the date of the object is equal, before or after the provided date.
+
+In order to modify and store the date data, OOP principles were used throughout the code.
